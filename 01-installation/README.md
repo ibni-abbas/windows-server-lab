@@ -10,7 +10,7 @@ Travaux réalisés
 
 📄 Rapport
 Le rapport complet est disponible dans :
-TP-installation.pdf
+installation windows server.pdf
 
 Résultat
 Installation réussie.
