@@ -31,6 +31,7 @@ Domaine créé : `lab.local`
  3. Redémarrage du serveur
  Le serveur devient automatiquement un Domain Controller
 
+voir dossier 02-active-diectory
 
  Auteur
 
