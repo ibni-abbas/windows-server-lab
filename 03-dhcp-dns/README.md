@@ -20,7 +20,7 @@ Environnement utilisé:
 - Ajout du rôle DHCP Server
 - Installation des fonctionnalités associées
 
-  2. Configuration du scope DHCP
+ 2. Configuration du scope DHCP
 Création d’une plage IP :
 
 - Nom du scope : `LAN-POOL`
@@ -31,7 +31,7 @@ Création d’une plage IP :
 - Passerelle : 192.168.1.1
 - DNS : 192.168.1.10 (serveur AD)
 
-   3. Activation du scope
+  3. Activation du scope
 - Activation de la plage DHCP
 - Autorisation du serveur DHCP dans Active Directory
 
